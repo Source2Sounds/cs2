@@ -1,0 +1,72 @@
+{
+  "cli": "Source2Viewer-CLI",
+  "collision_policy": "suffix",
+  "game": {
+    "description": "Counter-Strike 2 Sound Files",
+    "install_names": [
+      "Counter-Strike Global Offensive"
+    ],
+    "slug": "cs2",
+    "title": "Counter-Strike 2"
+  },
+  "generated_at": "2026-06-14T01:46:43.704959+00:00",
+  "include_maps": true,
+  "install": {
+    "directory": "Counter-Strike Global Offensive",
+    "steam_common_folder": "<local Steam common folder>"
+  },
+  "primary_only": false,
+  "single_file_only": true,
+  "totals": {
+    "collisions": 6001,
+    "duplicates": 37,
+    "written": 26353
+  },
+  "vpk_filter": [
+    "ar_pool_day.vpk"
+  ],
+  "vpks": [
+    {
+      "collisions": 0,
+      "duplicates": 0,
+      "path": "game/core/pak01_dir.vpk",
+      "returncode": 0,
+      "written": 65
+    },
+    {
+      "collisions": 1,
+      "duplicates": 0,
+      "path": "game/csgo/pak01_dir.vpk",
+      "returncode": 0,
+      "written": 20169
+    },
+    {
+      "collisions": 0,
+      "duplicates": 0,
+      "path": "game/csgo_core/pak01_dir.vpk",
+      "returncode": 0,
+      "written": 0
+    },
+    {
+      "collisions": 0,
+      "duplicates": 0,
+      "path": "game/csgo_imported/pak01_dir.vpk",
+      "returncode": 0,
+      "written": 0
+    },
+    {
+      "collisions": 6000,
+      "duplicates": 37,
+      "path": "game/csgo_lv/pak01_dir.vpk",
+      "returncode": 0,
+      "written": 6072
+    },
+    {
+      "collisions": 0,
+      "duplicates": 0,
+      "path": "game/csgo/maps/ar_pool_day.vpk",
+      "returncode": 0,
+      "written": 47
+    }
+  ]
+}
